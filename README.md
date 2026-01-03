@@ -6,7 +6,7 @@
 <h4>Conversor de moeda</h4>
 
 ## ![PT-BR](https://img.shields.io/badge/PT--BR-Português%20(BR)-green?style=flat) 
-Projeto para fins de aprendizado (passo a passo - creating um ambiente de Produto Mínimo Viável) - app 100% funcional
+Projeto para fins de aprendizado (passo a passo - criando um ambiente de Produto Mínimo Viável) - app 100% funcional
 O principal objetivo é criar um único app para conversores diversos: moeda, temperatura, medidas físicas e químicas.
 
 Linha do tempo: 
@@ -16,7 +16,7 @@ Linha do tempo:
 
 ![EN](https://img.shields.io/badge/EN-English-blue?style=flat) 
 
-Project for learning purposes (step by step - creating MVP environment)
+Project for learning purposes (step by step - creating a MVP environment)
 The main goal is to create a single app for various converters: currency, temperature, physical and chemical measurements 
 
 Timeline:
