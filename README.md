@@ -13,8 +13,13 @@ Data source: https://api.exchangerate-api.com/
 Projeto para fins de aprendizado (passo a passo - criando um ambiente de Produto Mínimo Viável) - app 100% funcional
 O principal objetivo é criar um único app para conversores diversos: moeda, temperatura, medidas físicas e químicas.
 
+[![Getting Started - Notion](https://img.shields.io/badge/Getting_Started-Notion-000000?style=flat&logo=notion)](https://www.notion.so/)
+https://www.notion.so/Desenvolvendo-mobile-React-Expo-2da0cc82a980804a9fe3dd24b9ab1344
+
 Linha do tempo: 
 - Em 03/01/2026 - Aplicativo mobile para conversão de moedas em tempo real - idioma do app: português do Brasil (i18n em desenvolvimento) - 100% funcional
+
+Inspiração: [![Learning Inspired by Rodolfo Mori](https://img.shields.io/badge/Learning_Inspired-Rodolfo_Mori-1abc9c?style=flat&logo=book-reader)](https://rodolfomori.com.br/)
 
 -----------
 
@@ -27,6 +32,10 @@ Timeline:
 - January 3, 2026 - Mobile application for real-time currency conversion  - app language: Brazilian Portuguese (i18n under development) - app 100% functional
 
 
+## 🙏 Agradecimentos / Acknowledgements:
+
+Agradecimentos especiais a / Special thanks to:  **[Rodolfo Mori](https://rodolfomori.com.br/)**    
+Pelo conteúdo educacional e inspiração no desenvolvimento deste projeto. / For the educational content and inspiration behind this project.
 
 # Currency Converter App
 
@@ -58,6 +67,7 @@ Timeline:
       <strong>Paleta de cores verde e rosa</strong>
     </td>        
   </tr>
+
 
 
 
