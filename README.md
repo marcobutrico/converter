@@ -3,7 +3,11 @@
 
 <h1>Conversores</h1>
 <h2>Fase Inicial</h2>
-<h4>Conversor de moeda</h4>
+<h2> 💱 Conversor de moeda / Currency Converter App </h2>
+
+Data source: https://api.exchangerate-api.com/ 
+![ExchangeRate API](https://img.shields.io/badge/API-ExchangeRate-blue?style=flat&logo=money) [![Currency API](https://img.shields.io/badge/Currency-ExchangeRate_API-2ecc71?style=flat&logo=googlefinance)](https://www.exchangerate-api.com/) [![Educational API Usage](https://img.shields.io/badge/API-Used_for_Learning_(Free)-9b59b6?style=flat&logo=graduation-cap)](https://www.exchangerate-api.com/)
+
 
 ## ![PT-BR](https://img.shields.io/badge/PT--BR-Português%20(BR)-green?style=flat) 
 Projeto para fins de aprendizado (passo a passo - criando um ambiente de Produto Mínimo Viável) - app 100% funcional
